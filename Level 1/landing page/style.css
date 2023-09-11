@@ -209,3 +209,8 @@ button{
         display: none;
     }
 }
+@media(max-width:752px) {
+    .img-msg {
+        display: none;
+    }
+}
