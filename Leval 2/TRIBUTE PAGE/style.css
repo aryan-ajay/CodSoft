@@ -43,3 +43,12 @@ p {
     text-align: center;
     color: white;
 }
+
+@media(max-width: 600px) {
+    .hading h1{
+        font-size: 2rem;
+    }
+    .main-text h1{
+        font-size: 2rem;
+    }
+}
